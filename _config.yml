@@ -2,7 +2,7 @@ title: eculver.github.com
 description: My GitHub page
 google_analytics: UA-26218941-1
 show_downloads: false
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
