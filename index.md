@@ -2,6 +2,6 @@
 
 This is my GitHub page. It's a placeholder for the time being. Requisite online identity links:
 
-[GitHub](http://github.com/eculver)
-[Twitter](http://twitter.com/eculver)
-[Google+](http://gplus.to/eculver)
+[GitHub](https://github.com/eculver)
+[LinkedIn](https://www.linkedin.com/in/eculver)
+[Twitter](https://twitter.com/evanculver)
