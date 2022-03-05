@@ -1,0 +1,8 @@
+title: eculver.github.com
+description: My GitHub page
+google_analytics: UA-26218941-1
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
