@@ -1,6 +1,6 @@
 ### Hello, My Name is Evan
 
-This is my GitHub page. It's a placeholder for the time being. Requisite online identity links:
+Requisite online identity links (as Go program ➜ Markdown):
 
 ```golang
 package main
@@ -12,13 +12,16 @@ func main() {
 		"GitHub":   "https://github.com/eculver",
 		"LinkedIn": "https://www.linkedin.com/in/eculver",
 		"Twitter":  "https://twitter.com/evanculver",
+		"Resume":   "https://bit.ly/evan-culver-public-resume",
 	}
 	for txt, href := range links {
 		fmt.Printf("- [%s](%s)\n", txt, href)
 	}
 }
+
 ```
 `-->`
 - [GitHub](https://github.com/eculver)
 - [LinkedIn](https://www.linkedin.com/in/eculver)
 - [Twitter](https://twitter.com/evanculver)
+- [Resume](https://bit.ly/evan-culver-public-resume)
